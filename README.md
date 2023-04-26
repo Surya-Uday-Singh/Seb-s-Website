@@ -1,3 +1,29 @@
+HOW TO RUN THE SITE:
+
+THERE ARE VARIOUS DEPENDENCIES. THEREFORE YOU NEED TO INSTALL
+1. REACT
+2. BOOTSTRAP 
+3. REACT-ROUTER-DOM , REACT-ICONS, REACT-DOM
+4. FA (FONT AWESOME)
+5. JQUERY
+6. NODE
+7. PHP
+
+TO RUN IT:
+FIRST RUN A PHP SERVER AT PORT 9000 IN THE PAGES FOLDER
+COMMAND :   php -S localhost:9000
+
+THEN Open folder in the terminal and type
+
+    npm start
+
+
+NOW THE SITE WILL RUN AS INTENDED
+
+
+BELOW ARE SOME INSTRUCTIONS FOR REACT APPLICATIONS:
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
